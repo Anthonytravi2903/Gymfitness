@@ -1,0 +1,1 @@
+2021/01/04 11:15:59 [error] 15156#15488: *1 connect() failed (10061: FormatMessage() error:(15100)) while connecting to upstream, client: 127.0.0.1, server: , request: "GET / HTTP/1.0", upstream: "fastcgi://127.0.0.1:10002", host: "gymfitness.local", referrer: "http://gymfitness.local/wp-admin/edit.php?post_type=page"

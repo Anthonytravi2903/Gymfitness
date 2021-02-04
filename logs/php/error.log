@@ -1,0 +1,97 @@
+[16-Jan-2021 23:00:34 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\usuario\Local Sites\gymfitness\app\public\wp-content\themes\Gymfitness\functions.php on line 8
+[16-Jan-2021 23:00:35 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\usuario\Local Sites\gymfitness\app\public\wp-content\themes\Gymfitness\functions.php on line 8
+[16-Jan-2021 23:00:35 UTC] PHP Parse error:  syntax error, unexpected '}' in C:\Users\usuario\Local Sites\gymfitness\app\public\wp-content\themes\Gymfitness\functions.php on line 8
+[26-Jan-2021 00:02:17 UTC] PHP Warning:  require(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in C:\Users\usuario\Local Sites\gymfitness\app\public\wp-content\themes\Gymfitness\functions.php on line 4
+[26-Jan-2021 00:02:17 UTC] PHP Stack trace:
+[26-Jan-2021 00:02:17 UTC] PHP   1. {main}() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-admin\admin-ajax.php:0
+[26-Jan-2021 00:02:17 UTC] PHP   2. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-admin\admin-ajax.php:22
+[26-Jan-2021 00:02:17 UTC] PHP   3. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-load.php:37
+[26-Jan-2021 00:02:17 UTC] PHP   4. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-config.php:77
+[26-Jan-2021 00:02:17 UTC] PHP   5. include() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-settings.php:525
+[26-Jan-2021 00:02:17 UTC] PHP Warning:  require(http://localhost:10004/wp-content/themes/Gymfitness/inc/queries.php): failed to open stream: no suitable wrapper could be found in C:\Users\usuario\Local Sites\gymfitness\app\public\wp-content\themes\Gymfitness\functions.php on line 4
+[26-Jan-2021 00:02:17 UTC] PHP Stack trace:
+[26-Jan-2021 00:02:17 UTC] PHP   1. {main}() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-admin\admin-ajax.php:0
+[26-Jan-2021 00:02:17 UTC] PHP   2. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-admin\admin-ajax.php:22
+[26-Jan-2021 00:02:17 UTC] PHP   3. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-load.php:37
+[26-Jan-2021 00:02:17 UTC] PHP   4. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-config.php:77
+[26-Jan-2021 00:02:17 UTC] PHP   5. include() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-settings.php:525
+[26-Jan-2021 00:02:17 UTC] PHP Fatal error:  require(): Failed opening required 'http://localhost:10004/wp-content/themes/Gymfitness/inc/queries.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\usuario\Local Sites\gymfitness\app\public\wp-content\themes\Gymfitness\functions.php on line 4
+[26-Jan-2021 00:02:17 UTC] PHP Stack trace:
+[26-Jan-2021 00:02:17 UTC] PHP   1. {main}() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-admin\admin-ajax.php:0
+[26-Jan-2021 00:02:17 UTC] PHP   2. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-admin\admin-ajax.php:22
+[26-Jan-2021 00:02:17 UTC] PHP   3. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-load.php:37
+[26-Jan-2021 00:02:17 UTC] PHP   4. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-config.php:77
+[26-Jan-2021 00:02:17 UTC] PHP   5. include() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-settings.php:525
+[26-Jan-2021 00:03:19 UTC] PHP Warning:  require(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in C:\Users\usuario\Local Sites\gymfitness\app\public\wp-content\themes\Gymfitness\functions.php on line 4
+[26-Jan-2021 00:03:19 UTC] PHP Stack trace:
+[26-Jan-2021 00:03:19 UTC] PHP   1. {main}() C:\Users\usuario\Local Sites\gymfitness\app\public\index.php:0
+[26-Jan-2021 00:03:19 UTC] PHP   2. require() C:\Users\usuario\Local Sites\gymfitness\app\public\index.php:17
+[26-Jan-2021 00:03:19 UTC] PHP   3. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-blog-header.php:13
+[26-Jan-2021 00:03:19 UTC] PHP   4. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-load.php:37
+[26-Jan-2021 00:03:19 UTC] PHP   5. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-config.php:77
+[26-Jan-2021 00:03:19 UTC] PHP   6. include() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-settings.php:525
+[26-Jan-2021 00:03:19 UTC] PHP Warning:  require(http://localhost:10004/wp-content/themes/Gymfitness/inc/queries.php): failed to open stream: no suitable wrapper could be found in C:\Users\usuario\Local Sites\gymfitness\app\public\wp-content\themes\Gymfitness\functions.php on line 4
+[26-Jan-2021 00:03:19 UTC] PHP Stack trace:
+[26-Jan-2021 00:03:19 UTC] PHP   1. {main}() C:\Users\usuario\Local Sites\gymfitness\app\public\index.php:0
+[26-Jan-2021 00:03:19 UTC] PHP   2. require() C:\Users\usuario\Local Sites\gymfitness\app\public\index.php:17
+[26-Jan-2021 00:03:19 UTC] PHP   3. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-blog-header.php:13
+[26-Jan-2021 00:03:19 UTC] PHP   4. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-load.php:37
+[26-Jan-2021 00:03:19 UTC] PHP   5. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-config.php:77
+[26-Jan-2021 00:03:19 UTC] PHP   6. include() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-settings.php:525
+[26-Jan-2021 00:03:19 UTC] PHP Fatal error:  require(): Failed opening required 'http://localhost:10004/wp-content/themes/Gymfitness/inc/queries.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\usuario\Local Sites\gymfitness\app\public\wp-content\themes\Gymfitness\functions.php on line 4
+[26-Jan-2021 00:03:19 UTC] PHP Stack trace:
+[26-Jan-2021 00:03:19 UTC] PHP   1. {main}() C:\Users\usuario\Local Sites\gymfitness\app\public\index.php:0
+[26-Jan-2021 00:03:19 UTC] PHP   2. require() C:\Users\usuario\Local Sites\gymfitness\app\public\index.php:17
+[26-Jan-2021 00:03:19 UTC] PHP   3. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-blog-header.php:13
+[26-Jan-2021 00:03:19 UTC] PHP   4. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-load.php:37
+[26-Jan-2021 00:03:19 UTC] PHP   5. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-config.php:77
+[26-Jan-2021 00:03:19 UTC] PHP   6. include() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-settings.php:525
+[26-Jan-2021 00:03:19 UTC] PHP Warning:  require(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in C:\Users\usuario\Local Sites\gymfitness\app\public\wp-content\themes\Gymfitness\functions.php on line 4
+[26-Jan-2021 00:03:19 UTC] PHP Stack trace:
+[26-Jan-2021 00:03:19 UTC] PHP   1. {main}() C:\Users\usuario\Local Sites\gymfitness\app\public\index.php:0
+[26-Jan-2021 00:03:19 UTC] PHP   2. require() C:\Users\usuario\Local Sites\gymfitness\app\public\index.php:17
+[26-Jan-2021 00:03:19 UTC] PHP   3. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-blog-header.php:13
+[26-Jan-2021 00:03:19 UTC] PHP   4. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-load.php:37
+[26-Jan-2021 00:03:19 UTC] PHP   5. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-config.php:77
+[26-Jan-2021 00:03:19 UTC] PHP   6. include() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-settings.php:525
+[26-Jan-2021 00:03:19 UTC] PHP Warning:  require(http://localhost:10004/wp-content/themes/Gymfitness/inc/queries.php): failed to open stream: no suitable wrapper could be found in C:\Users\usuario\Local Sites\gymfitness\app\public\wp-content\themes\Gymfitness\functions.php on line 4
+[26-Jan-2021 00:03:19 UTC] PHP Stack trace:
+[26-Jan-2021 00:03:19 UTC] PHP   1. {main}() C:\Users\usuario\Local Sites\gymfitness\app\public\index.php:0
+[26-Jan-2021 00:03:19 UTC] PHP   2. require() C:\Users\usuario\Local Sites\gymfitness\app\public\index.php:17
+[26-Jan-2021 00:03:19 UTC] PHP   3. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-blog-header.php:13
+[26-Jan-2021 00:03:19 UTC] PHP   4. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-load.php:37
+[26-Jan-2021 00:03:19 UTC] PHP   5. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-config.php:77
+[26-Jan-2021 00:03:19 UTC] PHP   6. include() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-settings.php:525
+[26-Jan-2021 00:03:19 UTC] PHP Fatal error:  require(): Failed opening required 'http://localhost:10004/wp-content/themes/Gymfitness/inc/queries.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\usuario\Local Sites\gymfitness\app\public\wp-content\themes\Gymfitness\functions.php on line 4
+[26-Jan-2021 00:03:19 UTC] PHP Stack trace:
+[26-Jan-2021 00:03:19 UTC] PHP   1. {main}() C:\Users\usuario\Local Sites\gymfitness\app\public\index.php:0
+[26-Jan-2021 00:03:19 UTC] PHP   2. require() C:\Users\usuario\Local Sites\gymfitness\app\public\index.php:17
+[26-Jan-2021 00:03:19 UTC] PHP   3. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-blog-header.php:13
+[26-Jan-2021 00:03:19 UTC] PHP   4. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-load.php:37
+[26-Jan-2021 00:03:19 UTC] PHP   5. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-config.php:77
+[26-Jan-2021 00:03:19 UTC] PHP   6. include() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-settings.php:525
+[26-Jan-2021 00:04:18 UTC] PHP Warning:  require(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in C:\Users\usuario\Local Sites\gymfitness\app\public\wp-content\themes\Gymfitness\functions.php on line 4
+[26-Jan-2021 00:04:18 UTC] PHP Stack trace:
+[26-Jan-2021 00:04:18 UTC] PHP   1. {main}() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-admin\admin-ajax.php:0
+[26-Jan-2021 00:04:18 UTC] PHP   2. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-admin\admin-ajax.php:22
+[26-Jan-2021 00:04:18 UTC] PHP   3. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-load.php:37
+[26-Jan-2021 00:04:18 UTC] PHP   4. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-config.php:77
+[26-Jan-2021 00:04:18 UTC] PHP   5. include() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-settings.php:525
+[26-Jan-2021 00:04:18 UTC] PHP Warning:  require(http://localhost:10004/wp-content/themes/Gymfitness/inc/queries.php): failed to open stream: no suitable wrapper could be found in C:\Users\usuario\Local Sites\gymfitness\app\public\wp-content\themes\Gymfitness\functions.php on line 4
+[26-Jan-2021 00:04:18 UTC] PHP Stack trace:
+[26-Jan-2021 00:04:18 UTC] PHP   1. {main}() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-admin\admin-ajax.php:0
+[26-Jan-2021 00:04:18 UTC] PHP   2. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-admin\admin-ajax.php:22
+[26-Jan-2021 00:04:18 UTC] PHP   3. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-load.php:37
+[26-Jan-2021 00:04:18 UTC] PHP   4. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-config.php:77
+[26-Jan-2021 00:04:18 UTC] PHP   5. include() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-settings.php:525
+[26-Jan-2021 00:04:18 UTC] PHP Fatal error:  require(): Failed opening required 'http://localhost:10004/wp-content/themes/Gymfitness/inc/queries.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\usuario\Local Sites\gymfitness\app\public\wp-content\themes\Gymfitness\functions.php on line 4
+[26-Jan-2021 00:04:18 UTC] PHP Stack trace:
+[26-Jan-2021 00:04:18 UTC] PHP   1. {main}() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-admin\admin-ajax.php:0
+[26-Jan-2021 00:04:18 UTC] PHP   2. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-admin\admin-ajax.php:22
+[26-Jan-2021 00:04:18 UTC] PHP   3. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-load.php:37
+[26-Jan-2021 00:04:18 UTC] PHP   4. require_once() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-config.php:77
+[26-Jan-2021 00:04:18 UTC] PHP   5. include() C:\Users\usuario\Local Sites\gymfitness\app\public\wp-settings.php:525
+[29-Jan-2021 21:50:11 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in C:\Users\usuario\Local Sites\gymfitness\app\public\wp-content\plugins\gymfitness-widgets\gymfitness_widgets.php on line 43
+[29-Jan-2021 21:50:12 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in C:\Users\usuario\Local Sites\gymfitness\app\public\wp-content\plugins\gymfitness-widgets\gymfitness_widgets.php on line 43
+[30-Jan-2021 21:34:50 UTC] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING), expecting ',' or ';' in C:\Users\usuario\Local Sites\gymfitness\app\public\wp-content\themes\Gymfitness\page-galerias.php on line 15
+[01-Feb-2021 23:03:52 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in C:\Users\usuario\Local Sites\gymfitness\app\public\wp-content\themes\Gymfitness\author.php on line 8
